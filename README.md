@@ -10,10 +10,7 @@ PLLM: [Link](https://drive.google.com/file/d/1-8_kyivFSKOeYEYukiFTu8FeMfVW7Yg8/v
 MLLM: [Link](https://drive.google.com/file/d/1pfxQPOHhHQOIE2iuZsTBOnhREuisRvt1/view?usp=sharing)
 MLPL:[Link](https://drive.google.com/file/d/1bkOI-IOiioakQPess7vwd13j_eDWF9Hg/view)
 
-## 2. Training:
-TBD
-
-## 3. Testing:
+## 2. Testing:
 
 Step 1: download the compressed model from [Google Driver model](https://drive.google.com/file/d/1F_HcZKZmVPOXwEzGTZkmUV9GzCM4m5OW/view). Put it in the folder "./model" and unzip it. We have release the model corresponding to steps P5 presented in TABLE VI in the sumbitted manuscript. mIoU of 58.4 can be achieved for the single model.
 
