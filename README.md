@@ -14,3 +14,6 @@ By running the code: PRcurve/drawPR.m, you can reproduce the PR curves in Figure
 
 ## 3. Generating proxy annotations on attention maps:
 By running the code GTgeneration/CRFrefinementforGT.m, you can generate the proxy annotations on MLPL.
+
+## 4. Retraining the network with proxy annotations:
+By running Training code in the 2nd stage/main.py, the segmentation network will be optimized by the proxy annotations.
