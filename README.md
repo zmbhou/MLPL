@@ -9,5 +9,8 @@ PLLM: [Link](https://drive.google.com/file/d/1-8_kyivFSKOeYEYukiFTu8FeMfVW7Yg8/v
 MLLM: [Link](https://drive.google.com/file/d/1pfxQPOHhHQOIE2iuZsTBOnhREuisRvt1/view?usp=sharing)
 MLPL:[Link](https://drive.google.com/file/d/1bkOI-IOiioakQPess7vwd13j_eDWF9Hg/view)
 
-## 2. Testing:
+## 2. PR curves:
+By running the code: PRcurve/drawPR.m, you can reproduce the PR curves in Figure 9.
 
+## 3. Generating proxy annotations on attention maps:
+By running the code GTgeneration/CRFrefinementforGT.m, you can generate the proxy annotations on MLPL.
