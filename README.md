@@ -1,5 +1,5 @@
 # MLPL
-# Code and Datasets for paper ["Multi-task Learning and Prototype Learning for Weakly Supervised Semantic Segmentation"] 
+# Code and Datasets for paper ["Optimizing Multi-task Network with Learned Prototypes for Weakly Supervised Semantic Segmentation"], submitted to Signal Processing: Image communication.
 
 ## 1. You can download the Localization Maps from the following links:
 CAM: [Link](https://drive.google.com/file/d/1VfHr3-kUa8MnWuQXZWXVm3i-7dpaOHC3/view?usp=sharing)
